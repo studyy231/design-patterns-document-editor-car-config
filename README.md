@@ -1,7 +1,6 @@
 # Software Architecture Assignment – Document Editor & Car Configuration
-
-## Student
-Lea Akkaoui
+---
+## Student: Lea Akkaoui
 ---
 
 ## Assignment 1 – Document Editor
