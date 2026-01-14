@@ -3,13 +3,6 @@
 ## Student
 Lea Akkaoui
 
-## Repository Purpose
-This repository contains the implementation of the two required assignments for the Software Architecture course.  
-Each assignment was implemented according to the specifications, with an emphasis on flexibility, extensibility, and proper use of design patterns.  
-All requirements and bonus tasks listed in the assignment description have been fully addressed.
-
----
-
 ## Assignment 1 – Document Editor
 
 ### Requirement
