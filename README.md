@@ -2,6 +2,7 @@
 
 ## Student
 Lea Akkaoui
+---
 
 ## Assignment 1 – Document Editor
 
