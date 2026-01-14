@@ -1,0 +1,3 @@
+com.Akkaoui.cms.document.formats.PdfDocumentHandler
+com.Akkaoui.cms.document.formats.WordDocumentHandler
+com.Akkaoui.cms.document.formats.HtmlDocumentHandler
